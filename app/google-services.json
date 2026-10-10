@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476990583359",
+    "project_id": "gatil-inventario",
+    "storage_bucket": "gatil-inventario.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476990583359:android:8177e7c0cafdef331f3e8a",
+        "android_client_info": {
+          "package_name": "com.gatil.inventario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476990583359-1h0hpm9hcjfp2339vibqrcm8tu3dr5gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi7bthTBo4JU-NhZW-c1MIT-UKO5--dpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476990583359-1h0hpm9hcjfp2339vibqrcm8tu3dr5gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
